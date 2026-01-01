@@ -1,7 +1,8 @@
+/* ==========================================================
 /* css written by GitHub Copilot */
 
 /* Basic page reset */
-* {
+/* * {
   box-sizing: border-box;
 }
 body {
@@ -18,7 +19,7 @@ body {
 }
 
 /* Styled dropdown */
-#countries-dropdown-menu {
+/* #countries-dropdown-menu {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -56,7 +57,7 @@ body {
 }
 
 /* Small responsive tweak */
-@media (max-width: 420px) {
+/* @media (max-width: 420px) {
   #countries-dropdown-menu {
     width: 100%;
   }
@@ -64,8 +65,9 @@ body {
 
 /* If the viewport height is reduced (e.g. devtools docked), nudge the control up
    so it remains visible instead of being too close to the bottom edge. */
-@media (max-height: 700px) {
+/* @media (max-height: 700px) {
   #countries-dropdown-menu {
     transform: translateY(-8vh);
   }
 }
+   ========================================================== */
